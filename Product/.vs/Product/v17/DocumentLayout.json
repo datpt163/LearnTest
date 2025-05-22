@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|d:\\workspace\\workspacebackend\\product\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|solutionrelative:controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EABE0E3-6355-40B1-B298-D7EC5B7E2225}|..\\Product.Test\\Product.Test.csproj|d:\\workspace\\workspacebackend\\product.test\\services\\dtos\\resulttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|D:\\WorkSpace\\WorkSpaceBackend\\Product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|D:\\WorkSpace\\WorkSpaceBackend\\Product\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93758475-3CD7-4EBB-BB23-1774E7CEA6F6}|Product.csproj|solutionrelative:dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Dtos\\Result.cs",
+              "RelativeDocumentMoniker": "Dtos\\Result.cs",
+              "ToolTip": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Dtos\\Result.cs",
+              "RelativeToolTip": "Dtos\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T02:59:46.759Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:25:54.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Controllers\\API\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\ValuesController.cs",
+              "ToolTip": "D:\\WorkSpace\\WorkSpaceBackend\\Product\\Controllers\\API\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\API\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:25:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultTest.cs",
+              "DocumentMoniker": "D:\\WorkSpace\\WorkSpaceBackend\\Product.Test\\Services\\Dtos\\ResultTest.cs",
+              "RelativeDocumentMoniker": "..\\Product.Test\\Services\\Dtos\\ResultTest.cs",
+              "ToolTip": "D:\\WorkSpace\\WorkSpaceBackend\\Product.Test\\Services\\Dtos\\ResultTest.cs",
+              "RelativeToolTip": "..\\Product.Test\\Services\\Dtos\\ResultTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:01:05.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
