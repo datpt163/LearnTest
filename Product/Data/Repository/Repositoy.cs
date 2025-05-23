@@ -29,5 +29,10 @@ namespace Product.Data.Repository
         public void Delete(T entity) => _dbSet.Remove(entity);
 
         public async Task SaveChangesAsync() => await _context.SaveChangesAsync();
+
+        public async Task<bool> ExistsAsync(Expression<Func<T, bool>> predicate)
+        {
+            return await _dbSet.AnyAsync(predicate);
+        }
     }
 }

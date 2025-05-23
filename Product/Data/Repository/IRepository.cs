@@ -11,5 +11,7 @@ namespace Product.Data.Repository
         void Update(T entity);
         void Delete(T entity);
         Task SaveChangesAsync();
+
+        Task<bool> ExistsAsync(Expression<Func<T, bool>> predicate);
     }
 }
